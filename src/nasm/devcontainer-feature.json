@@ -1,0 +1,12 @@
+{
+  "id": "nasm",
+  "version": "0.0.1",
+  "name": "nasm",
+  "documentationURL": "https://github.com/loag/nasm-feature",
+  "description": "Installs nasm with apt",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
